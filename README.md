@@ -1,0 +1,1 @@
+Created a command-line weather app in Python that fetches and displays current weather data for a user-specified location using a weather API it displays basic information such as temperature, humidity, and weather conditions ; as a part of my internship at oasis infobyte.
